@@ -1,31 +1,31 @@
 /* Laptop*/
 @media (max-width: 1877px) {
-		  header .col-lg-1 {
-		    width: 15%;
-		  }
-		  .col-lg-2 {
-		    width: 20%;
-		  }
-		  .navcar .col-lg-3, .navcar .col-lg-4 {
-		  	   padding-right: 0px;
-		  	   padding-left: 0px;
-		  }
-		  .navcar .col-lg-3{
-		  	width: 23%;
-		  }
-		  .navcar .col-lg-4 {
-		  	width: 39%;
-		  }
-		  header .col-lg-6 {
-		  	width: 28%;
-		  }
-		  .btn-group button {
-				font-size: 0.9em;
-			}
-			.padding {
-		    padding-bottom: 0.25em !important;
-			}
-		}
+  header .col-lg-1 {
+    width: 15%;
+  }
+  .col-lg-2 {
+    width: 20%;
+  }
+  .navcar .col-lg-3, .navcar .col-lg-4 {
+  	   padding-right: 0px;
+  	   padding-left: 0px;
+  }
+  .navcar .col-lg-3{
+  	width: 23%;
+  }
+  .navcar .col-lg-4 {
+  	width: 39%;
+  }
+  header .col-lg-6 {
+  	width: 28%;
+  }
+  .btn-group button {
+		font-size: 0.9em;
+	}
+	.padding {
+    padding-bottom: 0.25em !important;
+	}
+}
 /* STYLE BODY*/
 body {
 	min-width: 1197px;
@@ -234,4 +234,7 @@ figure:hover .add {
 	float: right;
 	margin-right: 0.5em;
 	width: 35%;
+}
+sidebar {
+   overflow: hidden;
 }
