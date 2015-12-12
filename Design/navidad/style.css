@@ -1,0 +1,14 @@
+/* HEADER */
+nav ul {
+	margin-top: 1em;
+}
+nav ul li {
+	color: #fff;
+	text-align: right;
+	display: inline;
+	padding: 5% 2%;
+}
+.carousel-inne, .carousel-example-generic {
+	width: 50%;
+	height: 50%;
+}
